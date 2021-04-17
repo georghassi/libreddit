@@ -18,7 +18,7 @@ mod subreddit;
 mod user;
 mod utils;
 
-// Import Crates
+// Import Crates here
 use clap::{App as cli, Arg};
 
 use futures_lite::FutureExt;
